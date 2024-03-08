@@ -34,7 +34,7 @@ body {
   font-weight: 700;
   line-height: 1.5;
   margin: 0;
-  height: 44px;
+  height: 40px;
   width: 10px;
   outline: none;
   overflow: hidden;
@@ -45,7 +45,7 @@ body {
   user-select: none;
   -webkit-user-select: none;
   touch-action: manipulation;
-  width: 16%;
+  width: 20%;
 }
 
 .button-31:hover,
