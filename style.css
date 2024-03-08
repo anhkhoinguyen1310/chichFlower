@@ -20,6 +20,39 @@ body {
   perspective: 1000px;
 }
 
+/* CSS */
+#startAnimations {
+  background-color: #222;
+  border-radius: 4px;
+  border-style: none;
+  box-sizing: border-box;
+  color: #fff;
+  cursor: pointer;
+  display: inline-block;
+  font-family: "Farfetch Basis","Helvetica Neue",Arial,sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 1.5;
+  margin: 0;
+  height: 44px;
+  width: 10px;
+  outline: none;
+  overflow: hidden;
+  padding: 9px 20px 8px;
+  position: relative;
+  text-align: center;
+  text-transform: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  width: 16%;
+}
+
+.button-31:hover,
+.button-31:focus {
+  opacity: .75;
+}
+
 .night {
   position: fixed;
   left: 50%;
