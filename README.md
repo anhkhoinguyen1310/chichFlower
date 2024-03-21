@@ -1,2 +1,2 @@
 # chichFlower
-https://lovechich.netlify.app/
+https://iuchich.netlify.app/
